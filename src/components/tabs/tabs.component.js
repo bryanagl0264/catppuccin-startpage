@@ -238,7 +238,7 @@ class Tabs extends Component {
           padding: .4em .7em;
           background: ${CONFIG.palette.mantle};
           box-shadow: 0 4px ${CONFIG.palette.mantle}, 0 5px 10px rgb(0 0 0 / 20%);
-          border-radius: 2px;
+          border-radius: 12px;
           margin-bottom: .7em;
       }
 
